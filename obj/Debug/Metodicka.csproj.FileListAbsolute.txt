@@ -1,0 +1,7 @@
+C:\Users\Сергей_2\source\repos\DZ7\bin\Debug\DZ7.exe.config
+C:\Users\Сергей_2\source\repos\DZ7\bin\Debug\DZ7.exe
+C:\Users\Сергей_2\source\repos\DZ7\bin\Debug\DZ7.pdb
+C:\Users\Сергей_2\source\repos\DZ7\obj\Debug\Metodicka.csproj.AssemblyReference.cache
+C:\Users\Сергей_2\source\repos\DZ7\obj\Debug\Metodicka.csproj.CoreCompileInputs.cache
+C:\Users\Сергей_2\source\repos\DZ7\obj\Debug\DZ7.exe
+C:\Users\Сергей_2\source\repos\DZ7\obj\Debug\DZ7.pdb
